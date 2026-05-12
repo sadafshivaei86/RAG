@@ -1,0 +1,6 @@
+{
+  "name": "Groq Excel RAG",
+  "description": "A RAG application powered by Groq and FAISS-like vector search for querying Excel files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
